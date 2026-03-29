@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-# Heya <img src="gifs/Hi.gif" width="29px"> , I'm [Suraj!](https://github.com/suraj0x0/)
+# Heya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm [Suraj!](https://github.com/suraj0x0/)
 <!---
 
 <h1 align="center">
