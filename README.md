@@ -13,3 +13,15 @@
 <b><p align="center">
   
 -->
+
+## 🌐 Socials:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/suraj0x0)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/suraj0x0)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-e4405f?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/23147861/suraj0x0)
+<a href="https://medium.com/@suraj0x0" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:suraj28patel@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0x0&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0x0" /> </p>
+
+
+### 💫 About Me:
